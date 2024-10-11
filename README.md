@@ -16,3 +16,11 @@
     return null;
   }
 ```
+
+# Table
+
+| Otsikko |
+| ------- |
+| GFM     |
+| Table   |
+| Testi   |
