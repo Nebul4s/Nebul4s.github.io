@@ -1,3 +1,7 @@
 # Github flavoured markdown page
 
-https://www.youtube.com/watch?v=xUcB90b2HMs
+<details>
+    <summary>
+        Dropdown much wow
+    </summary>
+</details>
